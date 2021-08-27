@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @versieboer
+- 👋 Hi, I’m @versieboer.
 - 👀 I’m interested in decentralization
 - 🌱 I’m currently learning all I can about the Bitcoin Lightning Network
 - 💞️ I’m looking to collaborate with others on how to establish a Decentralized Identity
