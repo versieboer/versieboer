@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Versie Boer
+- 👋 Hi.  My name is Versie Boer.
 - 👀 I’m interested in decentralization and bitcoin
 - 🌱 I’m currently learning all I can about the Bitcoin Lightning Network
 - 💞️ I’m looking to collaborate with others on how to establish a Decentralized Identity.
